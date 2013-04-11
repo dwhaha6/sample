@@ -1,33 +1,61 @@
-sample
-======
-Resume
+### Resume
+# Kyudong Park
 
-Kyudong Park
-
-Personal Details
+## Personal Details
 ================
 
 - Date of Birth : 06/10/1987
-- 
+- Address : 6 / 402, Posville(Nakwon APT), Jigok-dong, Nam-gu, Pohang, Gyeongbuk, South Korea
+- Cell Phone : +82 10 8972 0610
+- Email : kdpark@postech.ac.kr
 
-Education
-=========
+## Education
+============
 
-- Daegu High School
-- Kyungbook National University
-- Pohang University of Science and Technology 
+- Kyungbook National University (2006.03 - 2012.02)
+  * Bachelor's degree in *Computer Science and Engineering*
+- Pohang University of Science and Technology (POSTECH, 2012.03 - )
+  * M.S/Ph.D Candidate, *Creative IT Engineering* 
 
-Work Experience
+## Military Service
+===================
+- Republic of Korea Air Force: 5th Tactical Airlift Wing (2007.07–2009.09)
+  * Information and Communication Battalion, Cryptogram Management
+
+## Work Experience
 ===============
 
-- Samsung Service Center
+- Funsumer Team (2012.07 - 2012.08)
+  * Start up company, CTO
+- Samsung Service Center in Australia (2011.03 - 2011.07)
+  * Customer Service and Server Construction
+- Samsung Software Membership (2010.08 - 2013.02)
+  * Development of Application
 
-Skills
-======
+## Skills
+=========
 
-- dkda
+|               | Intermediate Level           |   Elementary Level  |
+| :-------------: |:-------------:| :-----:|
+| Language      | C, C++, C#, Java, MFC | Python, Matlab   |
+| Web           | PHP | JSP   |
+| DataBase      | MySQL, postgreSQL      |    |
+| Platform      | Linux, Android      |     |
 
-Projects
-========
+## Certifications
+====================
 
-- dks
+- Sun Certified Programmer for the JAVA Platform, Sun Microsystems (2010)
+- Craftsman Information Equipment Operation, HRD Korea (2001)
+- Word Processor 2nd class, Korea Chamber of Commerce and industry (2000)
+
+## Projects
+===========
+
+- GwanSang 
+- School Life SNS
+- Funsumer SNS
+- Real FPS game using Smartphone
+- SmatMon
+- iLinK
+- Sherlok holmes 
