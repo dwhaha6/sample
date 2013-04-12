@@ -52,10 +52,15 @@
 ## Projects
 ===========
 
-- GwanSang 
+- GwanSang
+  * A application giving luck information by using user's face
+  * Programming
 - School Life SNS
 - Funsumer SNS
 - Real FPS game using Smartphone
 - SmatMon
+  * A virtual monster helping user's health. By using wearable computing technology and Smartphone, user can be motivated by the monster.
+  * Planning, Development of prototype
 - iLinK
-- Sherlok holmes 
+  * A game platform that user can fight by eye blink
+  * Planning, Development of prototype
