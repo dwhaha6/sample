@@ -54,19 +54,19 @@
 
 - GwanSang
   * A application giving luck information by using user's face
-  * Role: Programming
+  * Role: Programming (openCV, MFC)
 - School Life SNS
   * School
-  * Role: Programming
+  * Role: Programming (postgreSQL, JSP, Java)
 - Funsumer SNS
   * School
-  * Role: 
+  * Role: CTO (mySQL, PHP, Android)
 - Real FPS game using Smartphone
-  * School
-  * Role: 
+  * Real shooting game using Smartphone. Smartphone is like a gun. You can aim to your friend and also shoot. For recognizing enemy, all players have to wear specially designed clothes.
+  * Role: Programming, planning (Android, openCV, Java, C, JNI)
 - SmatMon
   * A virtual monster helping user's health. By using wearable computing technology and Smartphone, user can be motivated by the monster.
-  * Planning, Development of prototype
+  * Role: Planning, Development of prototype (mobile web)
 - iLinK
   * A game platform that user can fight by eye blink
-  * Planning, Development of prototype
+  * Role: Planning, Development of prototype (Android, openCV)
