@@ -63,6 +63,9 @@
 - Part Management System (2011)
   * There are many parts in TV. For TV service company, I made an application that helps convenient part management.
   * Role: Programming, planning **(mySQL, PHP, Javascript)**
+- Clustering SNS Friends for Viral Marketing (2012)
+  * This research aims at finding optimal clustering based on 'Follow relation' data and similarity table computed by Random Walk with Restart (RWR) theory.
+  * Role: Research **(Matlab, Multi-dimensional Scale)**
 - Funsumer SNS (2012)
   * A SNS giving information that helps school life.
   * Role: CTO **(mySQL, PHP, Javascript, AJAX, JSON, Android)**
