@@ -44,34 +44,34 @@
 ===========
 
 - Optimal Train transfer System (2006)
-  * Role: Programming, planning (C++)
+  * Role: Programming, planning **(C++)**
 - Mini Game (2007)
   * Falling Obstacle avoidance Game.
-  * Role: Programming (C#, Windows CE)
+  * Role: Programming **(C#, Windows CE)**
 - Search Engine (2009)
   * A Web page that can search paper of computer science.
-  * Role: Programming (Regular Expression, C#, PHP, XML analysis, postgreSQL)
+  * Role: Programming **(Regular Expression, C#, PHP, XML analysis, postgreSQL)**
 - GwanSang (2010)
   * The GwanSang is a oriental concept. By using that, peoples can estimate others lucks or characteristics. This is an application giving luck information by using user's face.
-  * Role: Programming (openCV, MFC)
+  * Role: Programming **(openCV, MFC)**
 - School Life SNS (2010)
   * A SNS giving information that helps school life.
-  * Role: Programming (postgreSQL, JSP, Java)
+  * Role: Programming **(postgreSQL, JSP, Java)**
 - Real FPS game using Smartphone (2010)
   * Real shooting game using Smartphone. Smartphone is like a gun. You can aim to your friend and also shoot. For recognizing enemy, all players have to wear specially designed clothes.
-  * Role: Programming, planning (Android, openCV, Java, C, JNI)
+  * Role: Programming, planning **(Android, openCV, Java, C, JNI)**
 - Part Management System (2011)
   * There are many parts in TV. For TV service company, I made an application that helps convenient part management.
-  * Role: Programming, planning (mySQL, PHP, Javascript)
+  * Role: Programming, planning **(mySQL, PHP, Javascript)**
 - Funsumer SNS (2012)
   * A SNS giving information that helps school life.
-  * Role: CTO (mySQL, PHP, Javascript, AJAX, JSON, Android)
+  * Role: CTO **(mySQL, PHP, Javascript, AJAX, JSON, Android)**
 - SmatMon (2012)
   * A virtual monster helping user's health. By using wearable computing technology and Smartphone, user can be motivated by the monster.
-  * Role: Planning, Development of prototype (mobile web)
+  * Role: Planning, Development of prototype **(mobile web)**
 - iLinK (2012)
   * A game platform that user can fight by eye blink.
-  * Role: Planning, Development of prototype (Android, openCV)
+  * Role: Planning, Development of prototype **(Android, openCV)**
 
 ## Interest Field
 =================
