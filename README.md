@@ -26,12 +26,12 @@
 ## Work Experience
 ===============
 
-- Funsumer Team (2012.07 - 2012.08)
-  * Start up company, CTO
-- Samsung Service Center in Australia (2011.03 - 2011.07)
-  * Customer Service and Server Construction
 - Samsung Software Membership (2010.08 - 2013.02)
   * Development of Application
+- Samsung Service Center in Australia (2011.03 - 2011.07)
+  * Customer Service and Server Construction
+- Funsumer Team (2012.07 - 2012.08)
+  * Start up company, CTO
 
 ## Certifications
 ====================
