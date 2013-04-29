@@ -54,10 +54,16 @@
 
 - GwanSang
   * A application giving luck information by using user's face
-  * Programming
+  * Role: Programming
 - School Life SNS
+  * School
+  * Role: Programming
 - Funsumer SNS
+  * School
+  * Role: 
 - Real FPS game using Smartphone
+  * School
+  * Role: 
 - SmatMon
   * A virtual monster helping user's health. By using wearable computing technology and Smartphone, user can be motivated by the monster.
   * Planning, Development of prototype
