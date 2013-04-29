@@ -72,9 +72,13 @@
 - SmatMon (2012)
   * A virtual monster helping user's health. By using wearable computing technology and Smartphone, user can be motivated by the monster.
   * Role: Planning, Development of prototype **(mobile web)**
+- Idea Contest Exhibit of Science and Technology Policy (2012)
+  * **First prize**
+  * Title: Sherlock Homes Project: Accelerating education model to rearing up excellence science engineering students as well as promoting them to participate in real society.
 - iLinK (2012)
   * A game platform that user can fight by eye blink.
   * Role: Planning, Development of prototype **(Android, openCV)**
+
 
 ## Interest Field
 =================
