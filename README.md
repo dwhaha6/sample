@@ -8,6 +8,7 @@
 - Address : 6 / 402, Posville(Nakwon APT), Jigok-dong, Nam-gu, Pohang, Gyeongbuk, South Korea
 - Cell Phone : +82 10 8972 0610
 - Email : kdpark@postech.ac.kr
+- Skype ID : park5038
 
 ## Education
 ============
