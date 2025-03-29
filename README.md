@@ -87,3 +87,6 @@
 - Data Mining
 - Data Analysis
 - Bioinformatics
+
+연습용 코드 수정입니다.
+존경합니다 교수님
